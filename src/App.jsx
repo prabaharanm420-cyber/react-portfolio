@@ -1,10 +1,10 @@
 import Header from "./components/Header";
-import Hero from "./components/hero";
+import Hero from "./components/Hero";
 import About from "./About";
 import Projects from "./components/Projects";
-import Skills from "./components/skills";
-import Contact from "./components/contect";
-import Footer from "./components/footer";
+import Skills from "./components/Skills";
+import Contact from "./components/Contect";
+import Footer from "./components/Footer";
 import "./index.css";
 
 export default function App() {
